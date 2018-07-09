@@ -19,7 +19,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
 |   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
-| | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
+| | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |  | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
@@ -85,12 +85,12 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 
 ## How to use the guide
-See [example repo](https://github.com/shovanch/web-developer-journey)
+* To start using the guide, fork the repo.
 
 ## Notes
 * This is a template. You can customize it, add or remove courses as per your choices.
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
-* If you have any questions, feel free to ask me on twitter : **[Shovan Chatterjee](https://twitter.com/shovan_ch)**
+* If you have any questions, feel free to ask me on twitter : **[Shovan Chatterjee](https://twitter.com/shovan_ch)** [![Twitter Follow](https://img.shields.io/twitter/follow/shovan_ch.svg?style=flat-square&label=Follow%20@shovan_ch)](https://twitter.com/intent/follow?screen_name=shovan_ch)
 
 ## Attribution
 Inspired by [p1xt guides](https://github.com/P1xt/p1xt-guides), [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
